@@ -1,0 +1,12 @@
+.gambar-detail {
+    display: flex;
+    height: 450px;
+    width: 338px;
+}
+
+.button-detail {
+    background-color: #F74D4D !important;
+    color: white !important;
+    width: 100%;
+    margin-top: 30px;
+}

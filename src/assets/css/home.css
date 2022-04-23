@@ -1,0 +1,39 @@
+.judul-produk {
+    color: #F74D4D;
+    margin-top: 14px;
+    text-decoration: none;
+}
+
+.img-fluid {
+    margin-bottom: 15px !important;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06);
+}
+
+.img-home {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.paragrapgh-produk {
+    color: white;
+}
+
+.box-product {
+    background-color: #212121;
+    margin-bottom: 20px;
+}
+
+.form-search {
+    background-color: #181818 !important;
+    color: white !important;
+    width: 300px;
+}
+
+.card {
+    border-radius: 10px;
+}
